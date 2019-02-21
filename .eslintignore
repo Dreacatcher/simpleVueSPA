@@ -1,0 +1,7 @@
+/build/
+/config/
+/dist/
+/node_modules/
+/src/tools/
+/src/router/index.js
+/*.js
